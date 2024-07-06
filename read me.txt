@@ -1,0 +1,6 @@
+
+To use the program, you can use the following user accounts:
+
+username      pin
+js            1111
+jd            2222
